@@ -16,4 +16,13 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/pircbot/pircbot -->
+	<dependency>
+	    <groupId>pircbot</groupId>
+	    <artifactId>pircbot</artifactId>
+	    <version>1.5.0</version>
+	</dependency>
+  
+  </dependencies>
 </project>
